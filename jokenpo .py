@@ -39,3 +39,5 @@ if jogar.lower() == 's':
     print('Até a próxima, camarada!')
 elif jogar.lower() == 'n':
     print('Que pena, espero que se prepare pra quando eu roubar seu emprego!')
+
+# Jogo da velha (ou Jokenpo) que armazena a quantidade de vitórias, derrotas e empates do usuário e no final imprime a quantidade de cada um.
